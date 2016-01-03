@@ -1,0 +1,29 @@
+{
+  "name": "log4js-elasticsearch-aws",
+  "version": "1.0.0",
+  "description": "AWS ES wrapper for log4js-elasticsearch",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Issac Goldstand <margol@beamartyr.net>",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "aws-sdk": "^2.2.26",
+    "log4js-elasticsearch": "0.0.8"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ironSource/log4js-elasticsearch-aws.git"
+  },
+  "keywords": [
+    "log4js",
+    "aws",
+    "elasticsearch"
+  ],
+  "bugs": {
+    "url": "https://github.com/ironSource/log4js-elasticsearch-aws/issues"
+  },
+  "homepage": "https://github.com/ironSource/log4js-elasticsearch-aws#readme"
+}
